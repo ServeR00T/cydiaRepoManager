@@ -1,0 +1,14 @@
+depictions/
+node_modules/
+boot*
+ex.py
+*.png
+*.css
+*.html
+*.zip
+*.gz
+*.bz2
+Packages
+*Packages
+*Release
+update.sh
